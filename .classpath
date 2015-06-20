@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/zhiyanghe/Desktop/2015 Sum/Java/Music Player/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="/Users/zhiyanghe/Downloads/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhiyanghe/Desktop/mp3plugin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
